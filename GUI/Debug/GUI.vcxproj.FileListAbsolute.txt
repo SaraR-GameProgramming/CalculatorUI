@@ -1,0 +1,5 @@
+C:\Users\Saral\source\repos\GUI\Debug\GUI.vcxprojAssemblyReference.cache
+C:\Users\Saral\source\repos\GUI\Debug\GUI.exe
+C:\Users\Saral\source\repos\GUI\Debug\GUI.pdb
+C:\Users\Saral\source\repos\GUI\Debug\GUI.MyForm.resources
+C:\Users\Saral\source\repos\GUI\Debug\GUI.vcxproj.GenerateResource.cache
